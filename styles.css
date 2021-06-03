@@ -1,0 +1,118 @@
+body {
+    align-content: center;
+    font-family: 'Lato', sans-serif;
+}
+.container-fluid {
+    padding: 7% 15%;
+}
+h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
+/*backgrounds*/
+/* .title.bg{
+    background-image: url(/assets/green_pitch.jpg);
+} */
+
+.section-bg {
+    background-color: #ffffff;
+    position: relative;
+}
+.testi-bg {
+    background-color: #03fdfc;
+}
+
+.cta-bg{
+    background-color: #ffffff;
+}
+
+/* Title session */
+.big-head{
+    font-weight: 900;
+    font-size: 3.5rem;
+    color: white;
+    line-height: 1.5;
+}
+.intro{
+    color: white;
+    font-size: 1.75rem;
+    font-weight: 250;
+    line-height: 1;
+}
+#title {
+    padding: 3% 15% 7%;
+}
+.options{
+    margin: 15px 15px 15px 20px;
+}
+.navbar-brand{
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-right: 3px;
+}
+.nav-link{
+    padding: 0 18px;
+    margin: 0 12px;
+}
+
+/* FEATURES */
+.feature-box{
+ text-align: center;
+}
+.icon{
+    color:  forestgreen;
+    margin-bottom: 3px;
+}
+.feature-p{
+    color: dimgray;
+}
+/* TESTIMONIALS */
+#testimonials{
+    text-align: center;
+}
+.user{
+    width: 20px;
+    border-radius: 50%;
+    margin: 2px;
+}
+/* cta */
+#cta{
+    text-align: center;
+}
+.favorite{
+    color: dimgray;
+    font-weight: 400;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.boss{
+    color: dimgray;
+}
+.get-started{
+    margin-top: 5px;
+}
+
+/* FOOTER */
+#footer{
+    text-align: center;
+}
+
+.footer-p{
+    color: white;
+}
+.footer-h{
+    color: white;
+}
+.social-link{
+    color: white;
+    margin: 5px;
+}
+.here{
+    color: aquamarine;
+    
+}
+.here :hover{
+    color: teal;
+}
